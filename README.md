@@ -1,4 +1,4 @@
-# ansible_role_install_official_lumc_fair_data_point
+# FDP-ansible-role
 
 ## Description
 This ansible role will install the official LUMC Fair Data Point.    
