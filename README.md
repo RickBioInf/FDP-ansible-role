@@ -5,6 +5,7 @@ This ansible role will install the official LUMC Fair Data Point.
 This role can be linked as a submodule inside other ansible projects.  
 
 ## Variables
+Don't forget to edit `vars/main.yml` with your secret key.
 
 ## Usage
 To add this project as a submodule, inside you project roles directory use the following command :  
